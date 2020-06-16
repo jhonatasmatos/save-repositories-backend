@@ -23,11 +23,11 @@ Aplicação para armazenar repositórios do seu portfólio, que irá permitir a 
 
 ## :collision: Rotas
 
-__*GET*__  _/repositories_ rota responsável por listar todos os repositórios
-__*POST*__  _/repositories_ rota responsável adicionar um novo repositório
-__*PUT*__  _/repositories/id_ rota responsável por atualizar um repositório existente
-__*DELETE*__  _/repositories/id_ rota responsável por deletar um repositório conforme o id informado
-__*POST/LIKE*__  _/repositories/id/like_ rota responsável por adicionar um *"like"* ao id informado de um repositório existente
+__*GET*__  _/repositories_ rota responsável por listar todos os repositórios  
+__*POST*__  _/repositories_ rota responsável adicionar um novo repositório  
+__*PUT*__  _/repositories/id_ rota responsável por atualizar um repositório existente  
+__*DELETE*__  _/repositories/id_ rota responsável por deletar um repositório conforme o id informado  
+__*POST/LIKE*__  _/repositories/id/like_ rota responsável por adicionar um *"like"* ao id informado de um repositório existente  
 
 
 ## :point_down: Executando o projeto

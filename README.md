@@ -44,11 +44,7 @@ Após realizar o clone acesse a pasta do projeto:
 cd save-repositories-backend
 ````
 
-Logo em seguida digite o comando __*yarn*__ para baixar e atualizar as dependências do projeto:
-
-```git
-cd save-repositories-backend
-````
+Logo em seguida digite o comando __*yarn*__ para baixar e atualizar as dependências do projeto
 
 Para executar o projeto digite em seu terminal o comando:
 

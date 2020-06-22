@@ -61,11 +61,10 @@ app.put("/repositories/:id", verifyRepositoryExists, (request, response) => {
   const repositoryIndex = repositories.findIndex(repository => repository.id === id);
 
   const repository = {
-    id,
+    ...repositories[repositoryIndex],
     title,
     url,
-    techs,
-    likes: 0
+    techs
   };
 
   repositories[repositoryIndex] = repository;
